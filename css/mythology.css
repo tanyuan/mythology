@@ -1,0 +1,26 @@
+body {
+    background: url("../media/myth-cover-bw.jpg") top left no-repeat fixed;
+    background-size: cover;
+}
+
+#logo-space {    
+    position: absolute;
+    top: 120px;
+    right: 80px;
+    width: 128px;
+}
+#content {
+    position: absolute;
+    top: 256px;
+    right: 80px;
+    width: 600px;
+    text-align: right;
+}
+
+.description-text p {
+    padding-bottom: 8px;
+}
+.description-text p span {
+    background: #fff;
+    padding: 4px;
+}
