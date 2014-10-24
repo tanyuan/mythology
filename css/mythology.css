@@ -65,3 +65,9 @@ body {
     color: #fff;
     line-height: 2em;
 }
+.text-frame img {
+    width:100%;
+}
+.center {
+    text-align: center;
+}
