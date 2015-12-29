@@ -1,5 +1,6 @@
-mythology
-=========
+# 神話 Mythology, 2014
+
+![Mythology](cover.jpg)
 
 作品：神話
 
@@ -15,3 +16,10 @@ Shanyuan Teng, 1993- , Mythology
 
 2014 Wood, speaker, and electronic devices. 1.5×1.5×2.8 m
 
+## Source code
+
+Arduino code with with libraries:
+
+- Ultrasonic Sensors: [HCSR04Ultrasonic](http://wiki.tetrasys-design.net/HCSR04Ultrasonic)
+
+- Sound Synthesis: [Mozzi](http://sensorium.github.io/Mozzi/)
